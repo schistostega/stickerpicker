@@ -1,6 +1,8 @@
 {
   "packs": [
-    "Stalker2_pack.json"
+    "Stalker2_pack.json",
+    "florkofcow.json",
+    "DudesUa.json"
   ],
   "homeserver_url": "https://matrix.ff-ff-ff.win"
 }
